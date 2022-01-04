@@ -6,8 +6,8 @@
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution]() </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages]()
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-JeSYiZbsm) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm20_interactive_pricing_component/)
 
 Give a ⭐️ if you like this project!
 
